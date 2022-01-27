@@ -120,7 +120,7 @@
         {% for case in site.data.kubernetes %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ case.project }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ case.position }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ case.position }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4>
           <p class="resume-item-copy" style="clear: both;">{{ case.description }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
