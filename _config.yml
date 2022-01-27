@@ -12,11 +12,11 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Guto Carvalho"
 resume_title:                   "Cloud Native Engineer"
-resume_contact_email:
-  "guto@carvalho.life"
-resume_header_contact_info: "Brasilia - default, Brasil | guto@carvalho.life"
+resume_contact_email:           "guto@carvalho.life"
+resume_header_contact_info:     "Brasilia - default, Brasil | guto@carvalho.life"
 
 resume_header_intro: "
+
 <h3>About me</h3>
 
 <p>I have been here a long time. I started to work with computers back in the &#39;90s. My first OS was MS-DOS 6.0, and my first window manager was Windows 3.1. I used to connect to the internet using those noisy 14.400mbps modems from US Robotics, and IRC was the best way to chat with our friends :)</p></p>
@@ -29,21 +29,54 @@ resume_header_intro: "
 
 <h3>My goals</h3>
 
-<p>I want to help companies extract more from their infrastructure, innovate, and seek creative and intelligent solutions that add value to their projects and products.</p>
+<p>I want to help companies extract more from their infrastructure, innovate, and seek creative and intelligent solutions that add value to their teams, projects, products, and customers.</p>
 
-<h3>Exciting things from my work</h3>
+<h3>Exciting things about my work</h3>
 
 <ul>
+
 <li><p>In 2011, I presented an automation case using IaC inside the Brazilian Executive Federal Government, probably the first one.</p></li>
+
+<li><p>In 2012, I dived Into the DevOps Principles and Community, and back then, I started to follow Patrick Debois and John Willis adventures, trying to use their experience in Brazil.</p></
+li>
+
 <li><p>I was part of the team that built the first private cloud of Itaú, one of the largest banks in Brazil. </p></li>
+
 <li><p>In one of my recent projects, I was able to help the Ministry of Health enter the Cloud Native era. I designed the architecture and deployed five k8s clusters for their APPs and systems (dev, stg, test, pre-prod, prod), now they are moving from legacy to Cloud Native.</p></li>
-<li><p>I held two devopsdays in Brasilia city, Brazil&#39;s Capital, my city.</p></li>
-<li><p>I&#39;ve trained more than 500 people on IaC in the last 10 years.</p></li>
-<li><p>I&#39;ve been blogging for almost 15 years about IT and general stuff.</p></li>
-<li><p>I love to do mountain bike and karate-do!</p></li>
-<li><p>I'm 40 and I have two kids, a dog and a cat :)</p></li>
+
 
 </ul>
+
+<h3>Exciting things about my IT adventures</h3>
+
+<ul>
+<li><p>I held two devopsdays in Brasilia city, Brazil&#39;s Capital.</p></li>
+
+<li><p>I&#39;ve trained more than 500 people on IaC in the last 10 years.</p></li>
+
+<li><p>I&#39;ve been blogging for almost 15 years about IT and general stuff.</p></li>
+
+<li><p>I've given more than 150 talks in the last 10 years.</p></li>
+
+<li><p>I'm a regular speaker in several Brazil IT Conferences.</p></li>
+
+</ul>
+
+<h3>Exciting things from my life</h3>
+
+<ul>
+
+<li><p>I grew up in the mid-west of Brazil in a state called 'Mato Grosso do Sul', it's near the Bolivia and Paraguay borders. In that state, I lived in a region called Pantanal Sul (South Swaplands). In that time, I had the opportunity to experience the nature and wildlife, riding horses and swimming in rivers with fish, snakes, and various mammals — a magical and amazing time of my life.</p></li>
+
+<li><p>In my young adult life, I decided to move to Brasilia to find new challenges and learn more about mission-critical systems, especially those from the Federal Government, and I have been here since then.</p></li>
+
+<li><p>Now I'm 40 and I have two kids, a dog and a cat :)</p></li>
+
+<li><p>Besides the IT life and digital culture, I love to do mountain bike and karate-do!</p></li>
+
+</ul>
+
+<p>See more information about me <a href='https://gutocarvalho.net/quem-sou/'>here</a>. (portuguese only)</p>
 "
 
 # use "yes" to display the email contact button,
