@@ -1,0 +1,21 @@
+# Kubernetes Experience
+
+- project: TheScore
+  position: Cloud Native Engineer
+  description: Member of the team in charge of moving apps from EC2 (Linux APPs) to AWS EKS <br><br> Tools/Work <br><ul class="resume-item-list"><li>Infra automation with terraform</li><li>APP Dockerization</li><li>Creation of the K8S Manifests</li><li>Creation of the CircleCI Pipeline for Image Build Pipeline</li><li>Creation of the Shipit stack for APP Delivery</li><li>EKS Management</li><li>Keda for autoscaling</li><li>CloudFlare for DNS</li><li>DataDog for monitoring</li><li>Splunk for logs</li></ul> 
+
+- project: RNP
+  position: Cloud Native Engineer
+  description: Responsible for moving from OnPremisses K8S Cluster to AWS EKS <br><br> Tools/Work <br><ul class="resume-item-list"><li>APP Dockerization</li><li>Creation of the K8S Manifests</li><li>Creation of the Helm Charts</li><li>GitLabCI for Image Build</li><li>GitLabCI for APP Delivery</li><li>Prometheus+Grafana for Cluster Metrics</li><li>Loki for Cluster Logs</li><li>EKS Management</li><li>Harbor for Registry</li><li>Rancher for clusters management</li></ul> 
+
+- project: Ministry of Heath
+  position: Cloud Native Engineer
+  description: Responsible for moving from OpenShift to RKE Clusters<br><br> Tools/Work <br><ul class="resume-item-list"><li>K8S Architecture Design</li><li>Instalation of five clusters (dev, staging, pre-prod, prod, test)</li><li>Creation of the K8S Manifests</li><li>Creation of the Helm Charts</li><li>GitLabCI for Image Build</li><li>GitLabCI for APP Delivery</li><li>Cloud Native Storage with Longhorn</li><li>Prometheus+Grafana for Cluster Metrics</li><li>Loki for Cluster Logs</li><li>Nexus for Registry</li><li>Rancher for clusters management</li><li>MatterMost for ChatOps</li</ul> 
+
+- project: Superior Justice Tribunal
+  position: Cloud Native Engineer
+  description: Moving from Linux Instances on VMWARe to RKE Clusters<br><br> Tools/Work <br><ul class="resume-item-list"><li>K8S Architecture Design</li><li>Instalation of 3 clusters (dev, staging, prod)</li><li>Creation of the K8S Manifests</li><li>Creation of the Helm Charts</li><li>GitLabCI for Image Build</li><li>GitLabCI for APP Delivery</li><li>Cloud Native Storage with Longhorn</li><li>Prometheus+Grafana for Cluster Metrics</li><li>Loki for Cluster Logs</li><li>Nexus for Registry</li><li>Rancher for clusters management</li><li>Zabbix for clusters management</li><li>MatterMost for ChatOps</li></ul> 
+
+- project: JAC Experts
+  position: Cloud Native Engineer
+  description: Responsible for the design and cluster implementaion<br><br> Tools/Work <br><ul class="resume-item-list"><li>K8S Architecture Design</li><li>Instalation of 2 clusters (staging, prod)</li><li>Creation of the K8S Manifests</li><li>Creation of the Helm Charts</li><li>GitLabCI for Image Build</li><li>GitLabCI for APP Delivery</li><li>Cloud Native Storage with Longhorn</li><li>Prometheus+Grafana for Cluster Metrics</li><li>Loki for Cluster Logs</li><li>Nexus for Registry</li><li>Rancher for clusters management</li><li>Zabbix for infra monitoring</li><li>MatterMost for ChatOps</li></ul> 

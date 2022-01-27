@@ -1,0 +1,21 @@
+# talks
+
+- talk: Deploy techniques
+  place: DevOpsDays Goiania, 2021
+  description: An introduction to Canary, Green/Blue, Rollout, A/B and other techniques
+
+- talk: Cloud-Native and the Kubernetes revolution
+  place: Campus Party, 2020
+  description: An introduction to Cloud-Native and Kubernetes, the benefits, the challenges, and the expectations.
+
+- talk: From the commit to deploy with Kubernetes and GitLab CI
+  place: LinuxTips FicaEmCasaCOnf, 2020
+  description: A hands-on to create a pipeline to deliver an APP in any Kubernetes cluster
+
+- talk: 10 Years of DevOps Culture
+  place: DevOpsDays Goiania, 2019
+  description: A chat about ten years of DevOps, what has changed, what will change, numbers, cases, and where we are going
+
+- talk: Converging from Chaos to DevOps
+  place: DevCamp, 2018
+  description:  Case about a company changes during their DevOps journey.

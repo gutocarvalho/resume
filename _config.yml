@@ -1,0 +1,85 @@
+# Site settings
+title: "Guto Carvalho"
+description: Resume"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Guto Carvalho"
+resume_title:                   "Cloud Native Engineer"
+resume_contact_email:
+  "guto@carvalho.life"
+resume_header_contact_info: "Brasilia - default, Brasil | guto@carvalho.life"
+
+resume_header_intro: "
+<h3>About me</h3>
+
+<p>I have been here a long time. I started to work with computers back in the &#39;90s. My first OS was MS-DOS 6.0, and my first window manager was Windows 3.1. I used to connect to the internet using those 14.400mbps modems from US Robotics, and IRC was the best way to chat with our friends :)</p></p>
+
+<p>I have a sysadmin soul plus network and Linux skills combined with agile culture, I&#39;m also a DevOps Enthusiast, GitOps Practitioner, and Cloud-Native believer.</p></p>
+
+<p>I&#39;ve done so many things during my digital journey. I&#39;ve worked as a Sysadmin, Network engineer, Linux engineer, Advisor for the Federal Government, Consultor, Entrepreneur, Infrastructure developer (Infra as code), and GitOps engineer. Now I&#39;m working as a Cloud Native Engineer, currently living in Brasília, DF, Brazil.</p></p>
+
+<p>My interests range from infrastructure as code (IaC), DevOps, GitOps, Kubernetes, Cloud Native, ChatOps, Continuous Delivery, and Agile principles.</p></p>
+
+<h3>My goals</h3>
+
+<p>I want to help companies extract more from their infrastructure, innovate, and seek creative and intelligent solutions that add value to their projects and products.</p>
+
+<h3>Exciting things from my work</h3>
+
+<ul>
+<li><p>In 2011, I presented an automation case using IaC inside the Brazilian Executive Federal Government, probably the first one.</p></li>
+<li><p>I was part of the team that built the first private cloud of Itaú, one of the largest banks in Brazil. </p></li>
+<li><p>In one of my recent projects, I was able to help the Ministry of Health enter the Cloud Native era. I designed the architecture and deployed five k8s clusters for their APPs and systems (dev, stg, test, pre-prod, prod), now they are moving from legacy to Cloud Native.</p></li>
+<li><p>I held two devopsdays in Brasilia city, Brazil&#39;s Capital, my city.</p></li>
+<li><p>I&#39;ve trained more than 500 people on IaC in the last 10 years.</p></li>
+<li><p>I&#39;ve been blogging for almost 15 years about IT and general stuff.</p></li>
+<li><p>I love to do mountain bike and karate-do!</p></li>
+<li><p>I' 40 and I have two kids, a dog and a cat and I'm single.</p></li>
+
+</ul>
+"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_community:       true
+resume_section_kubernetes:      true
+resume_section_certifications:  true
+resume_section_trainings:       true
+resume_section_talks:           true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/gutocarvalho"
+  resume_twitter_url:           "http://twitter.com/gutocarvalho"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/falagutera"
+  resume_instagram_url:         "https://www.instagram.com/falagutera/"
+  resume_website_url:           "http://gutocarvalho.net"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
