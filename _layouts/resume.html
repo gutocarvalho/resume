@@ -60,6 +60,8 @@
         </div><!-- end of resume-item -->
         {% endfor %}
 
+        <p>See detailed information about my experiences <a href="https://curriculo.gutocarvalho.net/experiencias/">here</a> and <a href="https://curriculo.gutocarvalho.net/atividades-e-projetos/">here</a>. (portuguese only)</p>
+
       </section>
       <!-- end Experience -->
       {% endif %}
@@ -75,10 +77,12 @@
         {% for certs in site.data.certifications %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ certs.name }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ certs.id }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ certs.id }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4>
           <p class="resume-item-copy" style="clear: both;">{{ certs.company }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
+
+        <p>See detailed information about my certifications <a href="https://curriculo.gutocarvalho.net/estudos/">here</a>. (portuguese only)</p>
 
       </section>
       <!-- end Certifications -->
@@ -95,9 +99,11 @@
         {% for course in site.data.trainings %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ course.name }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ course.where }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <h4 class="resume-item-copy" itemprop="description"><span style="display: block; float:left;">{{ course.where }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
         </div><!-- end of resume-item -->
         {% endfor %}
+
+        <p>See detailed information about my training <a href="https://curriculo.gutocarvalho.net/certs/">here</a>. (portuguese only)</p>
 
       </section>
       <!-- end trainings -->
@@ -119,6 +125,8 @@
         </div><!-- end of resume-item -->
         {% endfor %}
 
+        <p>See detailed information about my projects <a href="https://curriculo.gutocarvalho.net/atividades-e-projetos/">here</a>. (portuguese only)</p>
+
       </section>
       <!-- end Experience -->
       {% endif %}
@@ -138,6 +146,8 @@
         </div>
         {% endfor %}
 
+        <p>See detailed information about my community activities <a href="https://curriculo.gutocarvalho.net/voluntariado/">here</a>. (portuguese only)</p>
+
       </section>
       <!-- end Projects -->
       {% endif %}
@@ -156,6 +166,8 @@
           <p class="resume-item-copy">{{ talk.description }}</p>
         </div>
         {% endfor %}
+
+        <p>See detailed information about my talks <a href="https://curriculo.gutocarvalho.net/talks/">here</a> and <a href="https://curriculo.gutocarvalho.net/lives/">here</a> . (portuguese only)</p>
 
       </section>
       <!-- end talks -->
