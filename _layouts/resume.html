@@ -111,6 +111,29 @@
       <!-- end trainings -->
       {% endif %}
 
+      {% if site.resume_section_recommendations %}
+      <!-- begin recommendations -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Recommendations</h2>
+        </header>
+
+        {% for rec in site.data.recommendations %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ rec.from }}</h3>
+          <h4 class="resume-item-copy" itemprop="details"><span style="display: block; float:left;">{{ rec.position }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ rec.description }}</span><br><br><br>
+
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+        <p>See more recommendations from linkedin <a href="https://www.linkedin.com/in/falagutera">here</a>.</p>
+
+      </section>
+      <!-- end recommendations -->
+      {% endif %}
+
       {% if site.resume_section_kubernetes %}
       <!-- begin Kuberentes cases -->
       <section class="content-section">
