@@ -1,0 +1,61 @@
+# Events attended
+
+- name: Chaos Carnival
+  place: Virtual
+  date: Jan/22
+
+- name: KubeCon North America
+  place: Virtual
+  date: Oct/21
+
+- name: Gitkon
+  place: Virtual
+  date: Sep/21
+
+- name: DevOps Extreme
+  place: Virtual
+  date: Aug/21  
+
+- name: GitOps Summit
+  place: Virtual
+  date: Jun/21
+
+- name: DevOpsDays Rio
+  place: Virtual
+  date: Jun/21
+
+- name: GrafanaCon
+  place: Virtual
+  date: Jun/21
+
+- name: GitOpsDays
+  place: Virtual
+  date: Jun/21
+
+- name: Hashicon Europa
+  place: Virtual
+  date: Jun/21
+
+- name: DockerCon
+  place: Virtual
+  date: May/21
+
+- name: KubeCon Europa
+  place: Virtual
+  date: May/11
+
+- name: FailOverConf
+  place: Virtual
+  date: Apr/11
+
+- name: DevOpsDays Goiania
+  place: Virtual
+  date: Set/20
+
+- name: Campus Party
+  place: Virtual
+  date: Jul/20
+
+- name: FiqueEmCasaConf
+  place: Virtual
+  date: Apr/20
