@@ -8,7 +8,7 @@
 - company: JAC Experts
   position: Cloud Native Engineer
   duration: Apr, 2019 &mdash; Oct, 2021;
-  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using onprem k8s.<br><br> Technologies <br><ul class="resume-item-list"><li>Ingress</li><li>Ingress</li><li>Rancher</li><li>RKE</li><li>LongHorn</li><li>Docker</li><li>GitLab</li><li>Harbor</li><li>Velero</li><li>Minio</li><li>Loki</li><li>Prometheus</li><li>Grafana</li></ul>
+  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using onprem k8s.<br><br> Technologies <br><ul class="resume-item-list"><li>Ingress</li><li>Nginx</li><li>Rancher</li><li>RKE</li><li>LongHorn</li><li>Docker</li><li>GitLab</li><li>Harbor</li><li>Velero</li><li>Minio</li><li>Loki</li><li>Prometheus</li><li>Grafana</li></ul>
   
 - company: Instruct
   position: Infrastructure as Code Engineer
