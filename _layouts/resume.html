@@ -49,7 +49,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Most relevant experiences from the last years</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -71,7 +71,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Certifications</h2>
+          <h2>My most relevant certifications</h2>
         </header>
 
         {% for certs in site.data.certifications %}
@@ -93,13 +93,15 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Trainings I attended</h2>
+          <h2>Trainings I attended and liked</h2>
         </header>
 
         {% for course in site.data.trainings %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ course.name }}</h3>
-          <h4 class="resume-item-copy" itemprop="description"><span style="display: block; float:left;">{{ course.where }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <h4 class="resume-item-copy" itemprop="details"><span style="display: block; float:left;">{{ course.where }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ course.description }}</span><span style="display: block; float:right;">{{ job.duration }}</span><br>
+
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -114,7 +116,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Kubernetes relevant cases</h2>
+          <h2>Kubernetes cases that I'm proud of</h2>
         </header>
 
         {% for case in site.data.kubernetes %}
@@ -135,13 +137,13 @@
       <!-- begin communities -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Communities</h2>
+          <h2>Communities that I'm part of</h2>
         </header>
 
         {% for community in site.data.community %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ community.project }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ community.role }}</span><span style="display: block; float:right;">{{ project.duration }}</span></h4><br/>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ community.role }}</span><span style="display: block; float:right;">{{ project.duration }}</span></h4>
           <p class="resume-item-copy" style="clear: both;">{{ community.description }}</p>
         </div>
         {% endfor %}
@@ -149,7 +151,7 @@
         <p>See detailed information about my community activities <a href="https://curriculo.gutocarvalho.net/voluntariado/">here</a>. (portuguese only)</p>
 
       </section>
-      <!-- end Projects -->
+      <!-- end communities -->
       {% endif %}
 
       {% if site.resume_section_talks %}
@@ -157,13 +159,13 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Talks</h2>
+          <h2>Most recent talk's I'm proud of</h2>
         </header>
         {% for talk in site.data.talks %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ talk.talk }}</h4>
-          <p class="resume-item-copy">{{ talk.place }}</p>
-          <p class="resume-item-copy">{{ talk.description }}</p>
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ talk.talk }}</h3>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ talk.place }}</span><span style="display: block; float:right;">{{ project.duration }}</span></h4>
+          <p class="resume-item-copy" style="clear: both;">{{ talk.description }}</p>
         </div>
         {% endfor %}
 

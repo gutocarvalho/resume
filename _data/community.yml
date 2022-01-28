@@ -1,24 +1,26 @@
 # Communities
 
-- project: DevOpsDays Brasil Comitee
+- project: DevOpsDays Brasil Committee
   role: Organizer from the Brasilia City
   duration: 2016 &mdash; Present
+  description: User group to discuss how to organize DevOpsDays Events in Brazil.
 
 - project: DevOpsDays Brasilia
   role: Organizer
   duration: 2016 &mdash; Present
+  description: Community resposible for the DevOpsDays Brasilia Events.
 
-- project: DevOps-BR
+- project: DevOps-BR (telegram)
   role: Co-Founder
   duration: 2015 &mdash; Present
   description: User group to discuss about DevOps and related tools.
 
-- project: GitOps Brasil
+- project: GitOps Brasil (telegram)
   role: Founder
   duration: 2020 &mdash; Present
   description: User group to discuss about GitOps Practices e and related tools.
 
-- project: Cloud Native Brasil
+- project: Cloud Native Brasil (telegram)
   role: Founder
   duration: 2020 &mdash; Present
   description: User group to discuss about Cloud Native and related tools.

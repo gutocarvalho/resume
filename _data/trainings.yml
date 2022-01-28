@@ -1,16 +1,25 @@
-# Trainings I attended
+# Training's I attended to
 
 - name: Docker image best practices
   where: JAC Experts
+  description: How to create docker image thinking in lightness and performance.
 
 - name: GitLab CI Pipelines best practices
   where: JAC Experts
+  description: How to deploy APPs in different environments with the same code.
 
 - name: Rancher & RKE best practices
   where: JAC Experts
+  description: Best practices to install, maintain and operate RKE clusters with Rancher.
 
 - name: Velero best practices
   where: JAC Experts
+  description: How to use velero to have a robust backup and DR plan for your cluster.
 
-- name: Kanban Offical LKU
-  where: LKU
+- name: Kanban Training
+  where: K21
+  description:  Kaban recognized training from an official partner of LKU.
+
+- name: Scrum Master Training
+  where: K21
+  description: Scrum Master recognized training from an official partner of Scrum Alliance.

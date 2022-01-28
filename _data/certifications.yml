@@ -1,8 +1,8 @@
 # Certifications
 
-- name: Rancher operator level 1
+- name: Rancher Operator Level 1
   id: 3200de73ce8245348d4bf4ff5194f6d5
-  company: Rancher Academy
+  company: Rancher
 
 - name: Pupper Certified Professional
   id: PCP204-0052
@@ -10,7 +10,7 @@
 
 - name: Certified Scrum Master
   id: 000688337
-  company: CSM
+  company: Scrum Alliance
 
 - name: RedHat Certified Engineer
   id: 140-019-704
@@ -26,9 +26,8 @@
   
 - name: Zabbix Certified Professional
   id: 23-01-15
-  company: RedHat  
+  company: Zabbix  
 
 - name: Zabbix Certified Specialist
   id: 21-01-15
-  company: RedHat 
-
+  company: Zabbix

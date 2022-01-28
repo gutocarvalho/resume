@@ -1,19 +1,19 @@
 # Jobs
 
 - company: VMFARMs (Canada division)
-  position: Cloud Enginee
+  position: Cloud Engineer
   duration: Oct, 2021 &mdash; Jan 2022;
   summary: Working as a Cloud Native Engineer, offering Kubernetes professional services, mostly using AWS and EKS. <br><br> Technologies <br><ul class="resume-item-list"><li>Docker</li><li>Terraform</li><li>GitHub</li><li>CircleCI</li><li>Kubernetes</li><li>Keda</li><li>CloudFlare</li><li>EKS</li></ul>
   
-- company: JAC
+- company: JAC Experts
   position: Cloud Native Engineer
   duration: Apr, 2019 &mdash; Oct, 2021;
   summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using onprem k8s.<br><br> Technologies <br><ul class="resume-item-list"><li>Rancher</li><li>RKE</li><li>LongHorn</li><li>Docker</li><li>GitLab</li><li>Harbor</li><li>Velero</li><li>Minio</li><li>Loki</li><li>Prometheus</li><li>Grafana</li></ul>
   
-- company: Instruct 
-  position: Infrastruct as Code Specialist
+- company: Instruct
+  position: Infrastructure as Code Engineer
   duration: May, 2014 &mdash; Marc, 2019;
-  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using puppet. <br> Technologies <br><ul class="resume-item-list"><li>GitLab</li><li>Nexus</li><li>Zabbix</li><li>Puppet</li><li>MatterMost</li><li>ProxMox</li></ul>
+  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using puppet. <br> <br> Technologies <br><ul class="resume-item-list"><li>GitLab</li><li>Nexus</li><li>Zabbix</li><li>Puppet</li><li>MatterMost</li><li>ProxMox</li></ul>
 
 - company: Globalweb (+2x)
   position: Linux Specialist
@@ -31,6 +31,6 @@
   summary: As a Linux Specialist, I helped the company clients to achieve better results with their Linux infrastructure. My main goal was to reduce risks and migrate manual procedures to automation tasks using Puppet and Shell resources.
 
 - company: Dataprev
-  position: Advisor
+  position: IT Advisor
   duration: Sep 2010 &mdash; Oct, 2011;
   summary: I worked with the infrastructure director supporting him in the management of 3 datacenters of the federal government that run all software related to public pension. More than 35 million payments were processed monthly for Brazilians, with more than 25 million receipts of social security taxes.
