@@ -95,16 +95,17 @@ resume_looking_for_work:        "yes"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-resume_section_education:       true
 resume_section_community:       true
 resume_section_kubernetes:      true
 resume_section_certifications:  true
 resume_section_trainings:       true
 resume_section_talks:           true
+resume_section_events:          true
 resume_section_recognition:     true
 resume_section_recommendations: true
 resume_section_links:           true
 resume_section_associations:    false
+resume_section_education:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

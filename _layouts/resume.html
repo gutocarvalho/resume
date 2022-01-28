@@ -177,6 +177,29 @@
       <!-- end communities -->
       {% endif %}
 
+
+      {% if site.resume_section_events %}
+      <!-- begin events -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Most recent events that I attend to</h2>
+        </header>
+        {% for event in site.data.events %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ event.name }}</h3>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ event.place }}</span></h4>
+          <p class="resume-item-copy" style="clear: both;">{{ event.date }}</p>
+        </div>
+        {% endfor %}
+
+        <p>See detailed information about events that I attended <a href="https://curriculo.gutocarvalho.net/eventos/">here</a>. (portuguese only)</p>
+
+      </section>
+      <!-- end events -->
+      {% endif %}
+
+
       {% if site.resume_section_talks %}
       <!-- begin talks -->
       <section class="content-section">
