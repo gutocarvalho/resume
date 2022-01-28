@@ -35,15 +35,20 @@ resume_header_intro: "
 
 <ul>
 
-<li><p>In 2011, I presented an automation case using IaC inside the Brazilian Executive Federal Government, probably the first one.</p></li>
+<li><p>In 2011, I presented an automation case using IaC inside a Brazilian Executive Federal Government agency called EBC, probably the first one.</p></li>
 
-<li><p>In 2012, I dived Into the DevOps Principles and Community, and back then, I started to follow Patrick Debois and John Willis adventures, trying to use their experience in Brazil.</p></
+<li><p>I was one of the first professionals to write and talk about DevOps and automation (IaC) in Brazil back in 2011-2012.</p></
+li>
+
+<li><p>I was one of the disseminators of the DevOps Culture inside the Brazilian Federal Government.</p></
+li>
+
+<li><p>In 2012-2013, I dived Into the DevOps Principles and Community, and back then, I started to follow Patrick Debois and John Willis adventures, trying to use their experience in Brazil.</p></
 li>
 
 <li><p>I was part of the team that built the first private cloud of Itaú, one of the largest banks in Brazil. </p></li>
 
 <li><p>In one of my recent projects, I was able to help the Ministry of Health enter the Cloud Native era. I designed the architecture and deployed five k8s clusters for their APPs and systems (dev, stg, test, pre-prod, prod), now they are moving from legacy to Cloud Native.</p></li>
-
 
 </ul>
 
