@@ -1,5 +1,11 @@
 # links
 - url: "http://gutocarvalho.net"
   description: My blog (In Portuguese only)
+- url: "https://www.linkedin.com/in/falagutera"
+  description: My linkedin profile
+- url: "https://about.me/gutocarvalho"
+  description: My about.me profile
 - url: "http://curriculo.gutocarvalho.net"
   description: My detailed resume and portifolio (In Portuguese only)
+- url: "https://github.com/gutocarvalho/resume"
+  description: My resume github repo, based on https://github.com/jglovier/resume-template
