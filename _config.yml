@@ -48,7 +48,7 @@ li>
 
 <li><p>I was part of the team that built the first private cloud of Itaú, one of the largest banks in Brazil. </p></li>
 
-<li><p>In one of my recent projects, I was able to help the Ministry of Health enter the Cloud Native era. I designed the architecture and deployed five k8s clusters for their APPs and systems (dev, stg, test, pre-prod, prod), now they are moving from legacy to Cloud Native.</p></li>
+<li><p>In one of my recent projects, I was able to help the Ministry of Health and Superior Justice Tribunal enter the Cloud Native era. I designed the architecture and deployed several k8s clusters for their APPs and systems (dev, stg, test, pre-prod, prod), now they are moving from legacy to Cloud Native.</p></li>
 
 </ul>
 
