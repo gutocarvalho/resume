@@ -3,17 +3,17 @@
 - company: VMFARMs (Canada division)
   position: Cloud Engineer
   duration: Oct, 2021 &mdash; Jan 2022;
-  summary: Working as a Cloud Native Engineer, offering Kubernetes professional services, mostly using AWS and EKS. <br><br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>Docker</li><li>Terraform</li><li>GitHub</li><li>GitBook</li><li>ZenHub</li><li>ZenDesk</li><li>CircleCI</li><li>ShipIt</li><li>Ejson</li><li>Kubernetes</li><li>Keda</li><li>CloudFlare</li><li>CertManager</li><li>Ingress</li><li>Nginx</li><li>Helm</li><li>Velero</li><li>AWS (S3/EC2/RDS/Route53/EKS/ECR/IAM)</li><li>Bash/Shell</li><li>Python for Ops automation</li></ul>  
+  summary: Working as a Cloud Native Engineer, offering Kubernetes professional services, mostly using AWS and EKS. <br><br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>Docker</li><li>Terraform</li><li>Ansible</li><li>GitHub</li><li>GitBook</li><li>ZenHub</li><li>ZenDesk</li><li>CircleCI</li><li>ShipIt</li><li>Ejson</li><li>Kubernetes</li><li>Keda</li><li>CloudFlare</li><li>CertManager</li><li>Ingress</li><li>Nginx</li><li>Helm</li><li>Velero</li><li>AWS (S3/EC2/RDS/Route53/EKS/ECR/IAM)</li><li>Bash/Shell</li><li>Python for Ops automation</li></ul>  
 
 - company: JAC Experts
   position: Cloud Native Engineer
   duration: Apr, 2019 &mdash; Oct, 2021;
-  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using onprem k8s.<br><br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>Docker</li><li>Terraform</li><li>Ingress</li><li>Nginx</li><li>Rancher</li><li>RKE</li><li>LongHorn</li><li>GitLab</li><li>Harbor</li><li>Velero</li><li>Minio</li><li>Loki</li><li>Prometheus</li><li>Grafana</li><li>NextCloud</li><li>WikiJS</li><li>CloudFlare</li><li>AWS (S3/EC2/RDS/Route53/EKS/ECR/IAM)</li><li>Bash/Shell</li><li>Python for OPs automation</li></ul>
+  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using onprem k8s.<br><br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>Docker</li><li>Terraform</li><li>Ansible</li><li>Ingress</li><li>Nginx</li><li>Rancher</li><li>RKE</li><li>LongHorn</li><li>GitLab</li><li>Harbor</li><li>Velero</li><li>Minio</li><li>Loki</li><li>Prometheus</li><li>Grafana</li><li>NextCloud</li><li>WikiJS</li><li>CloudFlare</li><li>AWS (S3/EC2/RDS/Route53/EKS/ECR/IAM)</li><li>Bash/Shell</li><li>Python for OPs automation</li></ul>
   
 - company: Instruct
   position: Infrastructure as Code Engineer
   duration: May, 2014 &mdash; Marc, 2019;
-  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using puppet. <br> <br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>GitLab</li><li>Nexus</li><li>Zabbix</li><li>Puppet</li><li>MatterMost</li><li>NextCloud</li><li>Dokuwiki</li><li>ProxMox</li><li>OVH Cloud</li><li>Bash/Shell</li><li>Python for Ops automation</li></ul>
+  summary: Responsible for automate deployment, designing infrastructure and support development teams to delivery their products to customers, mostly using puppet. <br> <br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>GitLab</li><li>Nexus</li><li>Zabbix</li><li>Puppet</li><li>MatterMost</li><li>NextCloud</li><li>Dokuwiki</li><li>ProxMox</li><li>OVH Cloud</li><li>Bash/Shell</li><li>Python for Ops automation</li><li>Ruby for Ops automation</li></ul>
 
 - company: Globalweb (+2x)
   position: Linux Specialist
