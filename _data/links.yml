@@ -9,5 +9,7 @@
   description: My about.me profile
 - url: "http://curriculo.gutocarvalho.net"
   description: My detailed resume and portifolio (In Portuguese only)
+- url: https://github.com/gutocarvalho/resume
+  description: Fork my resume repo here!
 - url: "https://github.com/jglovier/resume-template"
   description: The original resume repo project from jglovier
