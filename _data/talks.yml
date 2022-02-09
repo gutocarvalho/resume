@@ -4,13 +4,13 @@
   place: DevOpsDays Goiania, 2021
   description: An introduction to Canary, Green/Blue, Rollout, A/B and other techniques
 
-- talk: Cloud-Native and the Kubernetes revolution
+- talk: Cloud-Native and the Kubernetes revolution 
   place: Campus Party, 2020
-  description: An introduction to Cloud-Native and Kubernetes, the benefits, the challenges, and the expectations.
+  description: An introduction to Cloud-Native and Kubernetes, the benefits, the challenges, <a href="https://www.youtube.com/watch?v=QJAuJXcXZaM">and the expectations.</a>
 
-- talk: From the commit to deploy with Kubernetes and GitLab CI
+- talk: From the commit to deploy with Kubernetes and GitLab CI 
   place: LinuxTips FicaEmCasaCOnf, 2020
-  description: A hands-on to create a pipeline to deliver an APP in any Kubernetes cluster
+  description: A hands-on to create a pipeline to deliver an APP in any <a href="https://www.youtube.com/watch?v=hnc3GD_gWEA&t=2s">Kubernetes cluster.</a>
 
 - talk: 10 Years of DevOps Culture
   place: DevOpsDays Goiania, 2019
