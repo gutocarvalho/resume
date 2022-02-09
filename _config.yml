@@ -112,8 +112,9 @@ resume_section_education:       false
 resume_social_links:
   resume_github_url:            "https://github.com/gutocarvalho"
   resume_twitter_url:           "http://twitter.com/gutocarvalho"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  resume_youtube_url:           "https://www.youtube.com/c/FalaGutera"
+  resume_facebook_url:          "https://www.facebook.com/falagutera"
+  resume_telegram_url:          "https://t.me/gutocarvalho"
   resume_linkedin_url:          "https://www.linkedin.com/in/falagutera"
   resume_instagram_url:         "https://www.instagram.com/falagutera/"
   resume_website_url:           "http://gutocarvalho.net"
