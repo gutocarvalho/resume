@@ -1,5 +1,5 @@
 # links
-- url: "https://gutocarvalho.github.io/resume"
+- url: "https://resume.gutocarvalho.net"
   description: My resume
 - url: "http://gutocarvalho.net"
   description: My blog (In Portuguese only)
@@ -9,5 +9,5 @@
   description: My about.me profile
 - url: "http://curriculo.gutocarvalho.net"
   description: My detailed resume and portifolio (In Portuguese only)
-- url: "https://github.com/gutocarvalho/resume"
-  description: My resume github repo, based on https://github.com/jglovier/resume-template
+- url: "https://github.com/jglovier/resume-template"
+  description: The original resume repo project from jglovier

@@ -1,0 +1,21 @@
+# Recent studies
+
+- topic: Service Mesh, Istio vs Linkerd
+  description: One of my clients asked me to compare Istio and Linkerd and present the differences.
+  status: Presentation created and presented. See <a href="https://speakerdeck.com/gutocarvalho/service-mesh-istio-vs-linkerd">here</a>!
+
+- topic: EKS DR Strategies
+  description: One of my clients asked me to investigate some DR strategies for EKS after AWS 2022 Jan Outage.
+  status: Presentation created and presented. See <a href="  https://speakerdeck.com/gutocarvalho/eks-dr-public-slidedeck/">here</a>
+
+- topic: Keda
+  description: Trying to learn more about this projetct, it seems to be a really nice tool for pod scaling automation.
+  status: Some lab tests, need to do more tests...
+
+- topic: ArgoCD vs FLux vs Tekton vs Flagger vs Werf
+  description: I want to test all of it and create a talk to show the results
+  status: Working on!
+
+- topic: Keptn
+  description: A friend told me about Keptn and the SLO/SLA triggers for deploy and rollback
+  status: Next thing to test and write about it.

@@ -99,6 +99,7 @@ resume_section_community:       true
 resume_section_kubernetes:      true
 resume_section_certifications:  true
 resume_section_trainings:       true
+resume_section_studies:         true
 resume_section_talks:           true
 resume_section_events:          true
 resume_section_recognition:     true

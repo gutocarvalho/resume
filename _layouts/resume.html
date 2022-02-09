@@ -82,7 +82,7 @@
         </div><!-- end of resume-item -->
         {% endfor %}
 
-        <p>See detailed information about my certifications <a href="https://curriculo.gutocarvalho.net/estudos/">here</a>. (portuguese only)</p>
+        <p>See detailed information about my certifications <a href="https://curriculo.gutocarvalho.net/certs/">here</a>. (portuguese only)</p>
 
       </section>
       <!-- end Certifications -->
@@ -105,7 +105,7 @@
         </div><!-- end of resume-item -->
         {% endfor %}
 
-        <p>See detailed information about my trainings <a href="https://curriculo.gutocarvalho.net/certs/">here</a>. (portuguese only)</p>
+        <p>See detailed information about my trainings <a href="https://curriculo.gutocarvalho.net/estudos/">here</a>. (portuguese only)</p>
 
       </section>
       <!-- end trainings -->
@@ -219,6 +219,25 @@
 
       </section>
       <!-- end talks -->
+      {% endif %}
+
+      {% if site.resume_section_studies %}
+      <!-- begin recent studies -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Recent studies and investigations</h2>
+        </header>
+        {% for study in site.data.studies %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ study.topic }}</h3>
+          <p class="resume-item-copy" itemprop="description"><span style="display: block; float:left;">{{ study.description }}</span><span style="display: block; float:right;">{{ project.duration }}</span></p>
+          <p class="resume-item-copy" style="clear: both;"><b>Status:</b> {{ study.status }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end begin recent studies -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
