@@ -121,6 +121,10 @@ resume_social_links:
   resume_website_url:           "http://gutocarvalho.net"
 resume_print_social_links:      true
 
+google_analytics:
+  enabled: true 
+  id: G-3ZTKKWX9PL
+
 # Design settings
 resume_theme:                   default
 
