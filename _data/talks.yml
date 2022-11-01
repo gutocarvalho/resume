@@ -1,5 +1,13 @@
 # talks
 
+- talk: How to scale to 35 bilions transactions a DAY
+  place: DevOpsDays Fortaleza, 2022
+  description: An introduction to our last project and scenario scaling a SaaS using DevOps and GitOps.
+
+- talk: The container Revolution, from CHROOT to Cloud Native
+  place: Semana de Capacitação NIC.BR, 5º Edição
+  description: A journey through the container's history and the Cloud Native Revolution
+
 - talk: Deploy techniques
   place: DevOpsDays Goiania, 2021
   description: An introduction to Canary, Green/Blue, Rollout, A/B and other techniques

@@ -1,5 +1,9 @@
 # Kubernetes Experience
 
+- project: DNSFilter
+  position: Cloud Native Engineer
+  description: Member of the team in charge of moving apps from BareMetal (Linux APPs) to AWS EKS <br><br> Tools/Work <br><ul class="resume-item-list"><li>Infra automation with terraform</li><li>APP Dockerization</li><li>Creation of the K8S Manifests</li><li>Creation of the CircleCI Pipeline for Image Build</li><li>EKS Management</li><li>Keda for autoscaling</li><li>CloudFlare for DNS</li><li>DataDog for monitoring</li>
+
 - project: TheScore
   position: Cloud Native Engineer
   description: Member of the team in charge of moving apps from EC2 (Linux APPs) to AWS EKS <br><br> Tools/Work <br><ul class="resume-item-list"><li>Infra automation with terraform</li><li>APP Dockerization</li><li>Creation of the K8S Manifests</li><li>Creation of the CircleCI Pipeline for Image Build</li><li>Creation of the Shipit stack for APP Delivery</li><li>EKS Management</li><li>Keda for autoscaling</li><li>CloudFlare for DNS</li><li>DataDog for monitoring</li><li>Splunk for logs</li></ul> 
