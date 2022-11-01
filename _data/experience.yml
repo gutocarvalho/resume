@@ -2,10 +2,10 @@
 
 - company: DNSFilter.com
   position: Platform Engineer
-  duration: March, 2022; Present;
+  duration: Mar, 2022 — Present;
   summary: Working as a Platform Engineer, maintaning and operating the platform of the DNSFilter SaaS. Handling 35 bilions of transactions day. We're also moving several baremetal services to EKS and EC2. <br><br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>Docker</li><li>Terraform</li><li>Ansible</li><li>GitHub</li><li>Slab</li><li>Confluence</li><li>Jira</li><li>Datadog</li><li>ZenDesk</li><li>CircleCI</li><li>Kafka</li><li>Redis</li><li>ClickHouse</li><li>PostgreSQL</li><li>MySQL</li><li>Rundeck</li><li>Wazuh</li><li>NewRelic</li><li>Kubernetes</li><li>Keda</li><li>CloudFlare</li><li>CertManager</li><li>Ingress</li><li>Nginx</li><li>Helm</li><li>Velero</li><li>AWS (S3/EC2/RDS/Route53/EKS/ECR/IAM)</li><li>Bash/Shell</li><li>Python/Ruby for Ops automation</li></ul>
 
-- company: VMFARMs (Canada division)
+- company: VMFARMs/Stack.io
   position: Cloud Engineer
   duration: Oct, 2021 &mdash; Jan 2022;
   summary: Working as a Cloud Native Engineer, offering Kubernetes professional services, mostly using AWS and EKS. <br><br> Technologies <br><ul class="resume-item-list"><li>Git</li><li>Docker</li><li>Terraform</li><li>Ansible</li><li>GitHub</li><li>GitBook</li><li>ZenHub</li><li>ZenDesk</li><li>CircleCI</li><li>ShipIt</li><li>Ejson</li><li>Kubernetes</li><li>Keda</li><li>CloudFlare</li><li>CertManager</li><li>Ingress</li><li>Nginx</li><li>Helm</li><li>Velero</li><li>AWS (S3/EC2/RDS/Route53/EKS/ECR/IAM)</li><li>Bash/Shell</li><li>Python for Ops automation</li></ul>  
